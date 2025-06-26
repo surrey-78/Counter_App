@@ -1,5 +1,4 @@
 # Counter_App
-# NetFlix_Clone
 ## Date:
 ## Objective:
 To build a live character counter using JavaScript that dynamically displays the number of characters entered into a textarea — similar to what you see in Twitter or feedback forms.
